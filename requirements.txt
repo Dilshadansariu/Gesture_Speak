@@ -1,9 +1,0 @@
-flask
-flask-cors
-gunicorn
-opencv-python
-numpy
-pillow
-requests
-tensorflow
-mediapipe
